@@ -30,4 +30,5 @@ Spatial Domain Processing: Direct manipulation of image pixels
 Edge Detection: Identifying boundaries between different regions in an image
 Image Enhancement: Improving visual appearance for human interpretation 
 
-
+to run this project simply run 
+python main.py --image your_image.jpg
